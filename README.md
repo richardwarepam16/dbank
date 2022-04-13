@@ -1,4 +1,4 @@
-# dbank
+# dbank - DeFi Project (Decentralised Finance Bank)
 
 ![alt text](https://github.com/richardwarepam16/dbank/blob/66b0cff592bc8aa6e60af54ee3b7b596693ca646/screenbud-7c7138c3-0154-4402-af55-d8b4e83728b4.png)'
 
